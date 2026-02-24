@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Currently Learning Data Science<br>I am interested in building projects.
+Currently Learning Data Science and interested in building projects.
+Apart from that i'm learning Machine Learning with Python, Java, Web Development in PHP, DSA in C++.
 
 
 # 💻 Tech Stack:
