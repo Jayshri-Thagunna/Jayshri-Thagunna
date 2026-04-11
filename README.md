@@ -7,22 +7,14 @@ A developer who loves building things and solving problems. Currently, mastering
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayshri-Thagunna&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Jayshri's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayshri-Thagunna&theme=dark&hide_border=false" alt="Jayshri's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshri-Thagunna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
+# 📊 GitHub Summary:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayshri-Thagunna&theme=dark" alt="Profile Details" />
 </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayshri-Thagunna&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
